@@ -1,2 +1,2 @@
-# gampriv1
-just only my private mod, 1
+# gampriv2
+just only my private mod, 2
